@@ -1,0 +1,2 @@
+float64 rel_angle
+float64 rel_distance
